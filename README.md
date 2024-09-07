@@ -4,7 +4,7 @@ In this repository, you will find the road map that I followed to build a machin
 
 ![](images/kaggle.png)
 
-You can find further information about the competition [here](https://www.kaggle.com/c/titanic)<br><br>
+You can find further information about the Project [here](https://www.kaggle.com/c/titanic)<br><br>
 
 Workflow: <br>
 - Exploratory Data Analysis. <br>
